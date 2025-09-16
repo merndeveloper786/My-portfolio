@@ -77,7 +77,7 @@ const About = () => {
             
             <div className="about-buttons">
               <a href="#contact" className="btn btn-primary">Get In Touch</a>
-              <a href="/resume.pdf" className="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+              <a href="https://drive.google.com/file/d/1Bj1uPPxKNEpdioilJ74x8t1I_E713G7s/view?usp=sharing" className="btn btn-secondary" target="_blank" rel="noopener noreferrer">
                 View Resume
               </a>
             </div>
