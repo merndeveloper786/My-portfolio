@@ -7,7 +7,7 @@ const Experience = () => {
   const experiences = [
     {
       id: 1,
-      company: 'Buugcy',
+      company: 'Buggcy',
       role: 'MERN Stack Trainee',
       duration: 'Jun 2025 - Sept 2025',
       location: 'Remote',
@@ -22,7 +22,7 @@ const Experience = () => {
     },
     {
       id: 2,
-      company: 'Buugcy',
+      company: 'Buggcy',
       role: 'MERN Stack Trainee',
       duration: 'Jul 2024 - Oct 2024',
       location: 'Remote',
